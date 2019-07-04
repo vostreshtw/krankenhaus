@@ -1,0 +1,11 @@
+PatientenNummer;Anrede;Vorname;Nachname;Geburtsdatum;Adresszeile1;Adresszeile2;PLZ;Ort;TelNummer;Mail
+5;Herr;Lucas;As;4.09.1971;Beuselstr;1;Berlin;13359;+4916094030500;lh@web.de
+2;Frau;Monica;Fly;23.11.1976;Knaackst;89;Berlin;15675;+491545678954;mf@web.de
+10;Herr;Bernhard;Hirsch;17.10.1998;Alte Allee;4;Berlin;15050;+4916094030500;lh@web.de
+6;Frau;Ana;Horn;03.08.1960;Schoene Str;156;Berlin;13694;+4916094030500;lh@web.de
+1;Herr;Erik;Koch;10.04.1980;Krumme Str;56;Berlin;13567;+491525678985;ek@web.de
+8;Herr;Vincent;Lu;20.07.1990;Kastanienalee;67;Berlin;13050;+4916094030500;lh@web.de
+7;Herr;Robert;Maik;7.09.1956;Weberstr;12;Berlin;16959;+4916094030500;lh@web.de
+4;Frau;Lilly;Muster;31.03.1995;Inselstr;237;Berlin;13167;+4916593859936;lm@web.de
+3;Herr;Max;Mustermann;01.01.2000;Breite Allee;1a;Berlin;14567;+4917593969302;mm@web.de
+9;Frau;Lisa;Stark;01.06.1945;Brueckenstr;98;Berlin;10796;+4916094030500;lh@web.de
